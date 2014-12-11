@@ -1,0 +1,14 @@
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\bin\Debug\DPRN3_U2_EA_ROGH.exe.config
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\bin\Debug\DPRN3_U2_EA_ROGH.exe
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\bin\Debug\DPRN3_U2_EA_ROGH.pdb
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\bin\Debug\DPRN3_U2_EA_ROGH.xml
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\obj\Debug\DPRN3_U2_EA_ROGH.Contactos.resources
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\obj\Debug\DPRN3_U2_EA_ROGH.Resources.resources
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\obj\Debug\DPRN3_U2_EA_ROGH.vbproj.GenerateResource.Cache
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\obj\Debug\DPRN3_U2_EA_ROGH.exe
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\obj\Debug\DPRN3_U2_EA_ROGH.xml
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\obj\Debug\DPRN3_U2_EA_ROGH.pdb
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\obj\Debug\DPRN3_U2_EA_ROGH.AgregarCliente.resources
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\bin\Debug\MySql.Data.Entity.EF5.dll
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\rodolfo\documents\visual studio 2013\Projects\DPRN3_U2_EA_ROGH\DPRN3_U2_EA_ROGH\obj\Debug\DPRN3_U2_EA_ROGH.vbprojResolveAssemblyReference.cache
